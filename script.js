@@ -1,6 +1,6 @@
 (function() {
   var appendContent = function() {
-    var text = '<p>HII didi,</br>   Mujhe nahi pata</p>',
+    var text = '<p>HII didi,</br>Socah tha english mai likhoon but english mai feel nahi atti fir socha hindi mai likhun but mujse hindi mai matra ki galti ho jatti hai, phier mana socha hinglish mai likhun isleya hinglish mai likh rahan hun.</br></br>Didi mujhe pata nahi apka mood kabhi kabhi wo naraz wala mood mai kyun change ho jaata hai aur kal kal toh apna block karna ka liya hi bol diya, moti behen apna dhyaan rakha karo aur koi baat ho toh mujhe nahi toh apke best-friends ka sath share kar liya karo but haan mara sath share karoge toh mai kisi ko nahi bataunga aur na hi ajj tak bataya hai </p>',
         contentDiv = document.querySelector('.content'),
         card = document.querySelector('#loadingCard');
     
