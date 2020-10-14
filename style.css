@@ -1,14 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
 html {
   box-sizing: border-box;
-  background-color: #D38A3A;
+  background-color: #000000;
 }
 html *, html *:after, html *:before {
   box-sizing: border-box;
 }
 
 #loadingCard {
-  height: 30px;
+  height: 35px;
   width: 337px;
   position: absolute;
   top: 50%;
