@@ -37,7 +37,7 @@ html *, html *:after, html *:before {
 .cover {
   height: 100%;
   width: 0;
-  background-color: #3a7bd3;
+  background-color: #000000;
   margin: 0;
   position: relative;
   z-index: 1;
